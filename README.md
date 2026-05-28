@@ -18,4 +18,16 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username= shen5631&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shen5631&layout=compact&theme=radical" alt="Top Languages" />
+</p>
     
