@@ -22,7 +22,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username= shen5631&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shen5631&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## Most Used Languages
