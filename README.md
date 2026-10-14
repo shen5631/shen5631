@@ -16,7 +16,14 @@
          <a href=https://www.instagram.com/sh_hm56/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh_hm56/"> </a>
          <a href=https://velog.io/@shen5631/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@shen5631/posts"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "center"> 
+        <div style="text-align: left;"> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div style="text-align: left;"> 
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=yxo1in&show_icons=true&count_private=true&theme=default" />
+        </div> 
+    </div>
+    </div> 
     </div>
 
 
