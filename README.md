@@ -23,6 +23,13 @@
         <img src="https://github-readme-stats-fast.vercel.app/api?username=shen5631&show_icons=true&count_private=true&theme=default" />
         </div> 
     </div>
+    <div align= "center"> 
+        <div style="text-align: left;"> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div style="text-align: left;"> 
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shen5631&layout=compact&langs_count=6&theme=tokyolight" height="170"/>
+        </div> 
+    </div>
     </div> 
     </div>
 
